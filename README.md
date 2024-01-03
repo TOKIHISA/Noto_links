@@ -1,4 +1,7 @@
 # 能登半島地震　災害地図リンク集
+## 行政区域
+[石川県](https://mapfan.com/pref/17)<br>
+
 ## 国土地理院
 1．[空中写真（垂直写真）](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#3)（1月3日更新）<br>
 2．[「だいち2号」観測データの解析による地殻変動](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#8)（1月2日更新）<br>
@@ -6,5 +9,6 @@
 4．[震源断層モデル](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#13)（1月2日更新）<br>
 
 ## 地震被害状況
-[珠洲・輪島東フォトグラメトリ](https://ion.cesium.com/stories/viewer/?id=a4bbf02c-dd2e-4a16-9556-6543ace0b96d) [渡邉英徳 wtnv](https://x.com/hwtnv?s=20)様作成　
+[珠洲・輪島東フォトグラメトリ](https://ion.cesium.com/stories/viewer/?id=a4bbf02c-dd2e-4a16-9556-6543ace0b96d) [渡邉英徳 wtnv](https://x.com/hwtnv?s=20)様作成　<br>
 
+[全国Q地図](https://maps.qchizu.xyz/#16/37.282257/136.732643/&base=std&ls=std%7C95disaster_202401noto_01%7C95disaster_202401noto_02&blend=00&disp=111&lcd=95disaster_202401noto_02&vs=c1g1j0h0k0l0u0t0z0r0s1m0f0&vs2=f0&reliefdata=20G538794G1G00CCCCGAG80D7FFG1EGBFFFBFG3CG75FF75G8CG49B302G12CGFFFF00G258GFDA420G384GD96D00G44CGA3560AG5DCG946B40G7D0G8F847AG9C4GBBB5AFGBB8GE6E5E3GDACGFFFFFFGGFFFFFF&sync=1&base2=std&ls2=std%7Cseamlessphoto&blend2=1&disp2=11&lcd2=seamlessphoto) [山と地図](https://x.com/Yama_Chizu?s=20)様作成
