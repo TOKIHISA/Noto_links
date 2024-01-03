@@ -1,4 +1,4 @@
-# 令和6年能登半島地震　地図ツイートリンク集
+# 令和6年能登半島地震　地図・地図ツイートリンク集
 ## 行政区域
 [Mapfan 石川県](https://mapfan.com/pref/17) 
 
@@ -12,15 +12,19 @@
 4．[震源断層モデル](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#13)（1月2日更新）<br>
 
 ## 地震被害状況
-[AxelGlobe 令和6年能登半島地震特設ページ](https://www.axelglobe.com/ja/the-noto-hanto-earthquake-in-2024) / [Axelspace](https://www.axelspace.com)様 <br>
+[AxelGlobe 令和6年能登半島地震特設ページ](https://twitter.com/axelspace/status/1742319864868413456) / [Axelspace](https://twitter.com/axelspace)様 <br>
 令和6年能登半島地震特設ページ アクセルスペースが開発・運用する小型衛星郡による観測データ<br>
+
 [防災クロスビュー:令和6年能登半島地震](https://xview.bosai.go.jp/view/index.html?appid=41a77b3dcf3846029206b86107877780) / [KANO Yasuyuki](https://x.com/KanoYasuyuki?s=20)様作成<br>
+
 [令和6年能登半島地震 震央分布図 1/3更新](https://twitter.com/shi__works/status/1742467083311743323) / [shi-works](https://x.com/shi__works?s=20)様作成<br>
-[全国Q地図_地震前後 衛星画像](https://maps.qchizu.xyz/#16/37.282257/136.732643/&base=std&ls=std%7C95disaster_202401noto_01%7C95disaster_202401noto_02&blend=00&disp=111&lcd=95disaster_202401noto_02&vs=c1g1j0h0k0l0u0t0z0r0s1m0f0&vs2=f0&reliefdata=20G538794G1G00CCCCGAG80D7FFG1EGBFFFBFG3CG75FF75G8CG49B302G12CGFFFF00G258GFDA420G384GD96D00G44CGA3560AG5DCG946B40G7D0G8F847AG9C4GBBB5AFGBB8GE6E5E3GDACGFFFFFFGGFFFFFF&sync=1&base2=std&ls2=std%7Cseamlessphoto&blend2=1&disp2=11&lcd2=seamlessphoto) / [山と地図](https://x.com/Yama_Chizu?s=20)様作成<br>
-[珠洲・輪島東フォトグラメトリ](https://ion.cesium.com/stories/viewer/?id=a4bbf02c-dd2e-4a16-9556-6543ace0b96d) / [渡邉英徳 wtnv](https://x.com/hwtnv?s=20)様作成　<br>
+
+[全国Q地図_地震前後 衛星画像](https://twitter.com/Yama_Chizu/status/1742504134157504591) / [山と地図](https://x.com/Yama_Chizu?s=20)様作成<br>
+
+[珠洲・輪島東フォトグラメトリ](https://twitter.com/hwtnv/status/1742522610163048834) / [渡邉英徳 wtnv](https://x.com/hwtnv?s=20)様作成　<br>
+
+[読売新聞令和6年能登半島地震被災状況マップ](https://twitter.com/tshashin/status/1742400576150016228) <br>
 
 
-[読売新聞令和6年能登半島地震被災状況マップ](https://storymaps.arcgis.com/stories/f9dc1fce8ce3421d92b97a8bf2e697b1?s=09)<br>
-[読売新聞令和6年能登半島地震被災状況マップ(平面版)](https://storymaps.arcgis.com/stories/2bc590f78bb84266881801840a76cdfa) 
-
-
+## 地震調査研究推進本部事務局
+[令和６年能登半島地震に関する情報](https://www.jishin.go.jp/main/oshirase/20240101_noto.html)
