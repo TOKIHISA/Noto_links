@@ -1,6 +1,7 @@
 # 令和6年能登半島地震　地図リンク集
 ## 行政区域
-[石川県](https://mapfan.com/pref/17)
+[Mapfan 石川県](https://mapfan.com/pref/17) 
+
 ## 気象庁
 [令和6年能登半島地震ポータルサイト](https://www.jma.go.jp/jma/menu/20240101_noto_jishin.html) <br>
 
