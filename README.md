@@ -15,17 +15,17 @@
 [AxelGlobe 令和6年能登半島地震特設ページ](https://twitter.com/axelspace/status/1742319864868413456) / [Axelspace](https://twitter.com/axelspace)様 <br>
 令和6年能登半島地震特設ページ アクセルスペースが開発・運用する小型衛星郡による観測データ<br>
 
-[防災クロスビュー:令和6年能登半島地震](https://xview.bosai.go.jp/view/index.html?appid=41a77b3dcf3846029206b86107877780) / [KANO Yasuyuki](https://x.com/KanoYasuyuki?s=20)様作成<br>
+[防災クロスビュー:令和6年能登半島地震](https://xview.bosai.go.jp/view/index.html?appid=41a77b3dcf3846029206b86107877780) / [KANO Yasuyuki](https://x.com/KanoYasuyuki?s=20)様<br>
 
-[令和6年能登半島地震 震央分布図 1/3更新](https://twitter.com/shi__works/status/1742467083311743323) / [shi-works](https://x.com/shi__works?s=20)様作成<br>
+[令和6年能登半島地震 震央分布図 1/3更新](https://twitter.com/shi__works/status/1742467083311743323) / [shi-works](https://x.com/shi__works?s=20)様<br>
 
-[リアルタイム災害情報提供システム](https://twitter.com/KanoYasuyuki/status/1742445304748835102) / G空間情報センター<br>
+[リアルタイム災害情報提供システム](https://twitter.com/KanoYasuyuki/status/1742445304748835102) / G空間情報センター様<br>
 
-[全国Q地図_地震前後 衛星画像](https://twitter.com/Yama_Chizu/status/1742504134157504591) / [山と地図](https://x.com/Yama_Chizu?s=20)様作成<br>
+[全国Q地図_地震前後 衛星画像](https://twitter.com/Yama_Chizu/status/1742504134157504591) / [山と地図](https://x.com/Yama_Chizu?s=20)様<br>
 
-[珠洲・輪島東フォトグラメトリ](https://twitter.com/hwtnv/status/1742522610163048834) / [渡邉英徳 wtnv](https://x.com/hwtnv?s=20)様作成　<br>
+[珠洲・輪島東フォトグラメトリ](https://twitter.com/hwtnv/status/1742522610163048834) / [渡邉英徳 wtnv](https://x.com/hwtnv?s=20)様　<br>
 
-[読売新聞令和6年能登半島地震被災状況マップ](https://twitter.com/tshashin/status/1742400576150016228) / 読売新聞 <br>
+[読売新聞令和6年能登半島地震被災状況マップ](https://twitter.com/tshashin/status/1742400576150016228) / 読売新聞様 <br>
 
 
 ## 地震調査研究推進本部事務局
