@@ -16,13 +16,14 @@
 
 ## 地震被害状況
 [AxelGlobe 令和6年能登半島地震特設ページ](https://twitter.com/axelspace/status/1742319864868413456) / [Axelspace](https://twitter.com/axelspace)様 <br>
-令和6年能登半島地震特設ページ アクセルスペースが開発・運用する小型衛星郡による観測データ<br>
 
 [防災クロスビュー:令和6年能登半島地震](https://twitter.com/KanoYasuyuki/status/1742388115065737634) / [KANO Yasuyuki](https://x.com/KanoYasuyuki?s=20)様<br>
 
 [令和6年能登半島地震 震央分布図 1/3更新](https://twitter.com/shi__works/status/1742467083311743323) / [shi-works](https://x.com/shi__works?s=20)様<br>
 
 [リアルタイム災害情報提供システム](https://twitter.com/KanoYasuyuki/status/1742445304748835102) / G空間情報センター様<br>
+
+[NERV防災アプリ](https://twitter.com/UN_NERV/status/1419397627603427331) / [特務機関NERV](https://x.com/UN_NERV?s=20)様<br>
 
 [全国Q地図_地震前後 衛星画像](https://twitter.com/Yama_Chizu/status/1742504134157504591) / [山と地図](https://x.com/Yama_Chizu?s=20)様<br>
 
