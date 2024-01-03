@@ -11,6 +11,9 @@
 3．[電子基準点による地殻変動](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#10)（1月2日更新）<br>
 4．[震源断層モデル](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#13)（1月2日更新）<br>
 
+## 地震調査研究推進本部事務局
+[令和６年能登半島地震に関する情報](https://www.jishin.go.jp/main/oshirase/20240101_noto.html)
+
 ## 地震被害状況
 [AxelGlobe 令和6年能登半島地震特設ページ](https://twitter.com/axelspace/status/1742319864868413456) / [Axelspace](https://twitter.com/axelspace)様 <br>
 令和6年能登半島地震特設ページ アクセルスペースが開発・運用する小型衛星郡による観測データ<br>
@@ -28,5 +31,4 @@
 [読売新聞令和6年能登半島地震被災状況マップ](https://twitter.com/tshashin/status/1742400576150016228) / 読売新聞様 <br>
 
 
-## 地震調査研究推進本部事務局
-[令和６年能登半島地震に関する情報](https://www.jishin.go.jp/main/oshirase/20240101_noto.html)
+
