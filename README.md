@@ -15,7 +15,7 @@
 [AxelGlobe 令和6年能登半島地震特設ページ](https://twitter.com/axelspace/status/1742319864868413456) / [Axelspace](https://twitter.com/axelspace)様 <br>
 令和6年能登半島地震特設ページ アクセルスペースが開発・運用する小型衛星郡による観測データ<br>
 
-[防災クロスビュー:令和6年能登半島地震](https://xview.bosai.go.jp/view/index.html?appid=41a77b3dcf3846029206b86107877780) / [KANO Yasuyuki](https://x.com/KanoYasuyuki?s=20)様<br>
+[防災クロスビュー:令和6年能登半島地震](https://twitter.com/KanoYasuyuki/status/1742388115065737634) / [KANO Yasuyuki](https://x.com/KanoYasuyuki?s=20)様<br>
 
 [令和6年能登半島地震 震央分布図 1/3更新](https://twitter.com/shi__works/status/1742467083311743323) / [shi-works](https://x.com/shi__works?s=20)様<br>
 
