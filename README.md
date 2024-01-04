@@ -19,7 +19,7 @@
 
 [防災クロスビュー:令和6年能登半島地震](https://twitter.com/KanoYasuyuki/status/1742388115065737634) / [KANO Yasuyuki](https://x.com/KanoYasuyuki?s=20)様<br>
 
-[令和6年能登半島地震 震央分布図 1/3更新](https://twitter.com/shi__works/status/1742467083311743323) / [shi-works](https://x.com/shi__works?s=20)様<br>
+[令和6年能登半島地震 震央分布図 1/4更新](https://twitter.com/shi__works/status/1742864250379592110) / [shi-works](https://x.com/shi__works?s=20)様<br>
 
 [令和6年能登半島地震 2024 建物・道路マッピング. 石川県珠洲市](https://twitter.com/mapconcierge/status/1742809306150604871)　/ [Taichi Furuhashi](https://x.com/mapconcierge?s=20)様<br>
 
