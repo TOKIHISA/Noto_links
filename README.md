@@ -21,6 +21,8 @@
 
 [令和6年能登半島地震 震央分布図 1/3更新](https://twitter.com/shi__works/status/1742467083311743323) / [shi-works](https://x.com/shi__works?s=20)様<br>
 
+[令和6年能登半島地震 2024 建物・道路マッピング. 石川県珠洲市](https://twitter.com/mapconcierge/status/1742809306150604871)　/ [Taichi Furuhashi](https://x.com/mapconcierge?s=20)様<br>
+
 [リアルタイム災害情報提供システム](https://twitter.com/KanoYasuyuki/status/1742445304748835102) / G空間情報センター様<br>
 
 [NERV防災アプリ](https://twitter.com/UN_NERV/status/1419397627603427331) / [特務機関NERV](https://x.com/UN_NERV?s=20)様<br>
